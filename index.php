@@ -8,6 +8,6 @@
     <h1>Programowanie fullstack w chmurze obliczeniowej - Zadanie obowiązkowe nr 2</h1>
     <h3>Autor: Jakub Nowakowski</h3>
     <h3>Nr indeksu: 92968</h3>
-    <h4>Wersja aplikacji: 1.0</h4>
+    <h4>Wersja aplikacji: 1.1</h4>
 </body>
 </html>
